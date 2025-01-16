@@ -1,3 +1,5 @@
+# Many-app personal base
+# Mod from Elysia-app
 # Elysia Js with Bun runtime
 
 ### CRUD and AUTH with Elysia Js Bun API
